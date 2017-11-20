@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Enemy
+  - Moving
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 739430963
+    locked: 0
+  - name: Platform
+    uniqueID: 578849359
+    locked: 0
+  - name: Player
+    uniqueID: 808922845
+    locked: 0
+  - name: Enemy
+    uniqueID: 3138287937
+    locked: 0
+  - name: Collectable
+    uniqueID: 3349173567
+    locked: 0
+  - name: Effect
+    uniqueID: 4053755623
+    locked: 0
+  - name: GUI
+    uniqueID: 1827238797
+    locked: 0
